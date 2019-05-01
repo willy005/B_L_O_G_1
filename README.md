@@ -1,2 +1,2 @@
 ## Blog one
-##### By Wilfred 
+##### By Wilfred  Mutura
