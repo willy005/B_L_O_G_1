@@ -25,13 +25,7 @@ This is a web app that allows users to create and view blogs from other people.
     - Install python 3.6
     - Run "./start.sh" or "python3 manage.py server" from the terminal
 
-## Technologies used
 
-    - Python 3.6
-    - HTML
-    - Bootstrap
-    - Flask
-    - Pycharm
     
 ## Contributing
 
