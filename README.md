@@ -1,6 +1,4 @@
-### Blog one
 
-##### By Wilfred  Mutura
 
 ## Description
 This is a web app that allows users to create and view blogs from other people.
