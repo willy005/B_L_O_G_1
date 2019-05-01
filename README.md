@@ -43,10 +43,9 @@ Any contributions to this projects will be greatly appreciated. If you want to c
 
  Wilfred Mutura, any other contributor after the completion of the work can be viewed at this GitHub repository
 
-## Copyright
 
-All Rights Reserved by {Wilfred Mutura}
 
-## License
 
-This project is licensed under the MIT License, Under the curtesy of Moringa School.
+
+
+
