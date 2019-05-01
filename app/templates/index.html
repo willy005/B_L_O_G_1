@@ -1,0 +1,39 @@
+{% extends 'base.html'%}
+{% import 'macros.html' as macro%}
+
+
+<!-- Styles block -->
+<style>
+  .container{
+      background-color: black;
+  }
+</style>
+{% block styles%}
+{{ super() }}
+<link rel="stylesheet" href="{{url_for('static',filename='css/index.css')}}">
+<link href="https://fonts.googleapis.com/css?family=Gugi|ZCOOL+KuaiLe" rel="stylesheet">
+{% endblock %}
+
+
+<!-- Content block -->
+{% block content %}
+<div class="container">
+<div class="bgimg-1">
+    <div class="caption">
+      <span class="">Hi And Welcome Here</span><br>
+      <span class="border">Willy_Kid</span>
+    </div>
+</div>
+
+<div class="blog-summary">
+  <h3>The Blog</h3>
+  <p>This platform provides both the user and the writer with the opportunity to express themselves freely</p>
+</div>
+
+<div class="bgimg-1">
+    <div class="caption">
+      <span class="border">THE BLOG</span>
+    </div>
+  </div>
+</div>
+{% endblock%}
